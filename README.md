@@ -1,9 +1,8 @@
 # University of Denver Data Analytics: Visualizing Geo Mapping Data with Leaflet
 
-
-
-![image](Images/leaflet.png)
-
+<p align="center">
+<img width="900" height="400" src="Images/leaflet.png">
+</p>
 
 # Overview
 This project consists of creating an interactive map with data pertaining to earthquakes, tectonic plates and seismic activity from two different sources. The challenge is to use coordinates from the data to plot earthquake activity and the locations of the earth's plates. 
