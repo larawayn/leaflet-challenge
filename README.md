@@ -59,7 +59,7 @@ In this step we are going to..
 * Add layer controls to our map.
 
 ![5-Advanced](Images/image2.png)
-
+- - - 
 ## Final Interactive Map
-- - -
+
 ![5-Advanced](Images/video1.gif)
