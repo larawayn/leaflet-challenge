@@ -49,7 +49,7 @@ d3.json(platesLink,function(info){
 
     // Function to determine marker size based on magnitude
     function markerSize(magnitude) {
-        return magnitude * 3;
+        return magnitude * 5;
         } 
 
     // Perform a request for earthquake data
